@@ -1,0 +1,29 @@
+import random
+
+def rock_paper_scissors():
+    choices = ["石头", "剪刀", "布"]
+    print("欢迎来到石头剪刀布小游戏！输入 '石头'、'剪刀' 或 '布' 来玩。")
+    
+    while True:
+        player = input("你出: ")
+        if player not in choices:
+            print("输入无效，请重新输入。")
+            continue
+        computer = random.choice(choices)
+        print(f"电脑出: {computer}")
+        
+        if player == computer:
+            print("平局！")
+        elif (player == "石头" and computer == "剪刀") or \
+             (player == "剪刀" and computer == "布") or \
+             (player == "布" and computer == "石头"):
+            print("你赢了！")
+        else:
+            print("你输了！")
+        
+        again = input("再玩一局吗？(y/n): ").lower()
+        if again != 'y':
+            break
+
+if __name__ == "__main__":
+    rock_paper_scissors()
